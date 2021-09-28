@@ -1,4 +1,4 @@
-### Ahoy! :octocat:
+### Ahoy there! :octocat:
 
 - 🔭 I’m currently working on web stuff
 - 🌱 I’m currently learning C# and Go
