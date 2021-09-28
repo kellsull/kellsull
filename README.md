@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web stuff
 - 🌱 I’m currently learning C# and Go
-- ⚡ Fun fact: A banana is a berry, but a strawberry isn't.
+- ⚡ Fun fact: ...
 
 <!--
 **nelleks/nelleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
