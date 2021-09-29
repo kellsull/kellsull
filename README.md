@@ -1,8 +1,6 @@
 ### Ahoy there! :octocat:
 
-- 🔭 I’m currently working on web stuff
-- 🌱 I’m currently learning C# and Go
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on stuff
 
 <!--
 **nelleks/nelleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
